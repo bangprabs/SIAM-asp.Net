@@ -26,7 +26,7 @@
         .modalPopup {
             background-color: #FFFFFF;
             width: 300px;
-            border: 1px solid #f44336;
+            border: 2px solid #f44336;
             border-radius: 12px;
             padding: 0
         }
